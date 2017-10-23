@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508078982 source:c:\users\maciek\documents\workspace\c++\excersises\alchemy\system\tests\namingsystem03\main.cpp
+	<iostream>
+	<fstream>
+
